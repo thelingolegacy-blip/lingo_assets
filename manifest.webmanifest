@@ -1,0 +1,8 @@
+{
+  "name": "Lingo Assets — Studio Library",
+  "short_name": "Lingo Assets",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0d12",
+  "theme_color": "#0a0d12"
+}
