@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lingo-assets-thelingolegacy.vercel.app/sitemap.xml
+Sitemap: https://lingo-assets-seven.vercel.app/sitemap.xml
