@@ -12,3 +12,7 @@ Studio-ready asset library for The Lingo Legacy ecosystem.
 ## Deployment
 
 Deploy as a static Vercel site from the repository root. No package install or build command is required.
+
+## Premium Studio Production Layout System
+
+See `docs/premium-production-layout-system.md` for the shared high-premium layout language and reference-image placement plan.
