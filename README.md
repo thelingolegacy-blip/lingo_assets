@@ -21,3 +21,8 @@ Deploy as a static Vercel site from the repository root. No package install or b
 ## Premium Studio Production Layout System
 
 See `docs/premium-production-layout-system.md` for the shared high-premium layout language and reference-image placement plan.
+
+
+## Studio lane asset map
+
+See `docs/studio-lane-asset-map.md` for apparel, district, card-table, banner, sound, animation, and safety asset requirements.
