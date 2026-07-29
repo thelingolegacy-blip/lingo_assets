@@ -2,6 +2,11 @@
 
 Studio-ready asset library for The Lingo Legacy ecosystem.
 
+
+## Studio UI v2
+
+This live Vercel surface now loads `assets/studio-version.css`, the shared Studio UI refresh for stronger visual hierarchy, responsive polish, premium panels, motion-safe hover states, and consistent Lingo OS theming.
+
 ## Studio-ready deployment checklist
 
 - Production homepage has canonical, Open Graph, Twitter card, and description metadata.
